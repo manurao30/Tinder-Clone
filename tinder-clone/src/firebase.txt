@@ -1,0 +1,10 @@
+firebase login
+firebase init
+Select hosting
+Use an existing project
+Choose tinder-clone
+Make sure we use build as a public directory
+Choose y (single-page app)
+npm run build
+firebase deploy
+https://tinder-clone-dcf53.web.app/
